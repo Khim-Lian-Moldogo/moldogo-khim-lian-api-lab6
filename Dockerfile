@@ -1,3 +1,4 @@
+# Lab 6 - LavaLust API
 ARG PHP_VERSION=8.5
  
 FROM php:${PHP_VERSION}-apache
